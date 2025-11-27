@@ -35,7 +35,7 @@ DevPilot is a sophisticated Java Swing application designed to act as your AI-po
     .\run.ps1
     ```
 
-## Technologies Used
+## Technologies
 
 *   Java Swing
 *   FlatLaf (UI Library)
